@@ -1,0 +1,122 @@
+[
+  {
+    "text": "The app is not tracking my time on Android anymore.",
+    "category": "bug",
+    "score": 0.7063,
+    "ai_logic": "a technical failure, crash, error, or incorrect data"
+  },
+  {
+    "text": "I would like to upgrade my plan from Free to Pro.",
+    "category": "billing",
+    "score": 0.363,
+    "ai_logic": "a billing, payment, invoice, or subscription issue"
+  },
+  {
+    "text": "How can I export all my timesheets to Excel?",
+    "category": "account_help",
+    "score": 0.9123,
+    "ai_logic": "a question asking for asisstance or instructions on how to use the software or settings"
+  },
+  {
+    "text": "Billing failed again, my credit card keeps getting declined.",
+    "category": "billing",
+    "score": 0.9798,
+    "ai_logic": "a billing, payment, invoice, or subscription issue"
+  },
+  {
+    "text": "I forgot my password and cannot log in.",
+    "category": "bug",
+    "score": 0.5762,
+    "ai_logic": "a technical failure, crash, error, or incorrect data"
+  },
+  {
+    "text": "The web dashboard is very slow when loading reports.",
+    "category": "bug",
+    "score": 0.5158,
+    "ai_logic": "a technical failure, crash, error, or incorrect data"
+  },
+  {
+    "text": "Can you add an integration with Microsoft Teams?",
+    "category": "feature_request",
+    "score": 0.9787,
+    "ai_logic": "a suggestion to implement a new feature or improvement"
+  },
+  {
+    "text": "I want to change the owner of our workspace.",
+    "category": "other",
+    "score": 0.3086,
+    "ai_logic": "irrelevant text"
+  },
+  {
+    "text": "The mobile app crashes every time I try to clock in.",
+    "category": "bug",
+    "score": 0.9866,
+    "ai_logic": "a technical failure, crash, error, or incorrect data"
+  },
+  {
+    "text": "How do I invite new members to my organization?",
+    "category": "account_help",
+    "score": 0.9103,
+    "ai_logic": "a question asking for asisstance or instructions on how to use the software or settings"
+  },
+  {
+    "text": "We were charged twice this month, please check our invoice.",
+    "category": "billing",
+    "score": 0.9976,
+    "ai_logic": "a billing, payment, invoice, or subscription issue"
+  },
+  {
+    "text": "Is there a way to track time offline and sync later?",
+    "category": "feature_request",
+    "score": 0.5455,
+    "ai_logic": "a suggestion to implement a new feature or improvement"
+  },
+  {
+    "text": "Please add dark mode to the web app.",
+    "category": "feature_request",
+    "score": 0.9837,
+    "ai_logic": "a suggestion to implement a new feature or improvement"
+  },
+  {
+    "text": "I need help updating our company billing address.",
+    "category": "billing",
+    "score": 0.9713,
+    "ai_logic": "a billing, payment, invoice, or subscription issue"
+  },
+  {
+    "text": "The GPS location is inaccurate when my team clocks in.",
+    "category": "bug",
+    "score": 0.6363,
+    "ai_logic": "a technical failure, crash, error, or incorrect data"
+  },
+  {
+    "text": "Can I limit which devices employees are allowed to clock in from?",
+    "category": "account_help",
+    "score": 0.5197,
+    "ai_logic": "a suggestion to implement a new feature or improvement"
+  },
+  {
+    "text": "Our data export is missing some projects.",
+    "category": "bug",
+    "score": 0.4529,
+    "ai_logic": "a technical failure, crash, error, or incorrect data"
+  },
+  {
+    "text": "I'd like to request a feature to approve timesheets before payroll.",
+    "category": "feature_request",
+    "score": 0.9866,
+    "ai_logic": "a suggestion to implement a new feature or improvement"
+  },
+  {
+    "text": "My account was deactivated and I don't know why.",
+    "category": "bug",
+    "score": 0.5994,
+    "ai_logic": "a technical failure, crash, error, or incorrect data"
+  },
+  {
+    "text": "We need an option to automatically round time entries to 15 minutes.",
+    "category": "feature_request",
+    "score": 0.9638,
+    "ai_logic": "a suggestion to implement a new feature or improvement"
+  }
+]
