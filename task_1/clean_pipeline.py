@@ -5,6 +5,8 @@ from datetime import datetime
 # Fixed exchange rates to USD
 EXCHANGE_RATES = {
     'USD': 1.0,
+    'CAD': 0.71,
+    'AUD': 0.63,
     'MYR': 0.22,
     'PHP': 0.018,
     'PKR': 0.0036
@@ -39,7 +41,7 @@ def calculate_duration(time_in, time_out):
 def main():
     # Read the CSV file
     print("Reading input file...")
-    df = pd.read_csv('entries.csv')
+    df = pd.read_csv('raw_time_entries.csv')
     
     total_entries = len(df)
     print(f"Total entries loaded: {total_entries}")
@@ -96,4 +98,4 @@ def main():
     print(f"Total amount (USD): ${total_amount_usd}")
 
 if __name__ == "__main__":
-    main()
+    main()  
